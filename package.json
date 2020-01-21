@@ -1,0 +1,17 @@
+{
+  "name": "wood-socket.io",
+  "version": "1.0.3",
+  "description": "wood-socket.io server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wood-socket.io"
+  ],
+  "author": "guohualin",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
